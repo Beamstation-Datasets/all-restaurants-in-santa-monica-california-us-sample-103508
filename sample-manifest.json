@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4d4d86c6-2d96-4086-9f2e-9394daa8ac90",
+  "export_job_id": "bfba62a0-8c7d-4abe-aa08-72b1b24e2f82",
   "id_short": 103508,
-  "published_at": "2026-04-10T19:03:57Z",
+  "published_at": "2026-04-19T07:55:22Z",
   "repo_name": "all-restaurants-in-santa-monica-california-us-sample-103508",
   "sample_asset_name": "beamstation_103508_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/103508/beamstation_103508_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 48,
-  "sample_sha256": "abbb315d2158226ca57e11e9055e9edad29555b9b837efd5589718822c230aac",
-  "sample_size_bytes": 191490,
-  "total_records": 489
+  "sample_sha256": "d88030d3ef59b9b41d2c7538378fcdd9d4c260574e90e6d610cddd07157becd8",
+  "sample_size_bytes": 183662,
+  "total_records": 486
 }
