@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Santa Monica, California. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Santa Monica, California, US",
-  "export_job_id": "d5968c5f-89cd-46a8-878f-d1b2f4faf250",
+  "export_job_id": "bdd14fb2-b1d8-47f9-8202-9c02289fcccb",
   "github_org": "Beamstation-Datasets",
   "id_short": 103508,
   "location_name": "Santa Monica",
   "location_type": "city",
   "repo_name": "all-restaurants-in-santa-monica-california-us-sample-103508",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/103508/beamstation_103508_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.98,
+  "sample_pct": 9.83,
   "sample_records": 47,
-  "sample_sha256": "e7d366508a7c8999fddb0acd1a2419398ab7d63dd8cdbb8f70f7d6e2a1097010",
-  "sample_size_bytes": 188059,
-  "total_records": 471,
-  "updated_at": "2026-04-23T14:19:57.313415+00:00"
+  "sample_sha256": "dfeac5ad88309b02c07a7c8ee3063b2f18a8d07d4f1901ffe79addb76a982e50",
+  "sample_size_bytes": 163032,
+  "total_records": 478,
+  "updated_at": "2026-04-30T14:30:55.382452+00:00"
 }
